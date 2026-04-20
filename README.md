@@ -2,7 +2,8 @@
     <h2>LLM Twin Course: Building Your Production-Ready AI Replica</h2>
     <h1>Learn to architect and implement a production-ready LLM & RAG system by building your LLM Twin</h1>
     <h3>From data gathering to productionizing LLMs using LLMOps good practices.</h3>
-    <i>by <a href="https://decodingml.substack.com">Decoding ML</i>
+    <a href="https://trendshift.io/repositories/6386" target="_blank"><img src="https://trendshift.io/api/badge/repositories/6386" alt="iusztinpaul%2Fhands-on-llms | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+    <i>by <a href="https://decodingai.com">Decoding AI</i>
 </div>
 
 </br>
